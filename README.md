@@ -5,7 +5,7 @@
 ### Pratiibh Bassi
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR]()
 
 
 #### Documentation

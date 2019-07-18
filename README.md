@@ -33,5 +33,5 @@
 * TBA
 
 #### UML
-![UML] (./assets/lab08.jpg)
+* Couldn't get this image to autolink for some weird reason, but UML is in assets folder
 

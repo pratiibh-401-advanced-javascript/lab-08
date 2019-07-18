@@ -5,7 +5,7 @@
 ### Pratiibh Bassi
 
 ### Links and Resources
-* [submission PR](asdasdasdsadasasd)
+* [submission PR](https://github.com/pratiibh-401-advanced-javascript/lab-08/pull/1)
 
 
 #### Documentation
@@ -34,3 +34,4 @@
 
 #### UML
 ![UML] (./assets/lab08.jpg)
+

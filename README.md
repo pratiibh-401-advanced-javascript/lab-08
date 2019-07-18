@@ -33,4 +33,5 @@
 * TBA
 
 #### UML
-![UML] (./assets/UML(lab08).jpg)
+![UML] (./assets/lab08.jpg)
+
